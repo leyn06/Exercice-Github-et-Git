@@ -788,4 +788,6 @@ Après ces exercices, vous pouvez :
 
 N'hésitez pas à refaire les exercices plusieurs fois jusqu'à ce que les commandes deviennent naturelles.
 
+# Vous pouvez trouver le cours en rapport avec ces exercices [ici](https://github.com/leyn06/Cours-sur-Github-et-Git)
+
 **Cours écrit par Leyn_13**
